@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\bin\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\bin\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\bin\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\bin\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\bin\Debug\net6.0\ref\Aula20_ConvercaoImplicitaECasting.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\bin\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\obj\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\obj\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\obj\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\obj\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\obj\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\obj\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\obj\Debug\net6.0\ref\Aula20_ConvercaoImplicitaECasting.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\obj\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula20_ConvercaoImplicitaECasting\Aula20_ConvercaoImplicitaECasting\obj\Debug\net6.0\Aula20_ConvercaoImplicitaECasting.genruntimeconfig.cache

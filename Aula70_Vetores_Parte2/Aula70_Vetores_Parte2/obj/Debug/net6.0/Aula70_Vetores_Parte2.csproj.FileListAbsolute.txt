@@ -1,0 +1,14 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\bin\Debug\net6.0\Aula70_Vetores_Parte2.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\bin\Debug\net6.0\Aula70_Vetores_Parte2.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\bin\Debug\net6.0\Aula70_Vetores_Parte2.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\bin\Debug\net6.0\Aula70_Vetores_Parte2.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\bin\Debug\net6.0\ref\Aula70_Vetores_Parte2.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\bin\Debug\net6.0\Aula70_Vetores_Parte2.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\obj\Debug\net6.0\Aula70_Vetores_Parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\obj\Debug\net6.0\Aula70_Vetores_Parte2.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\obj\Debug\net6.0\Aula70_Vetores_Parte2.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\obj\Debug\net6.0\Aula70_Vetores_Parte2.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\obj\Debug\net6.0\Aula70_Vetores_Parte2.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\obj\Debug\net6.0\ref\Aula70_Vetores_Parte2.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\obj\Debug\net6.0\Aula70_Vetores_Parte2.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula70_Vetores_Parte2\Aula70_Vetores_Parte2\obj\Debug\net6.0\Aula70_Vetores_Parte2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\bin\Debug\net6.0\Aula53_Inicializar_Valores.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\bin\Debug\net6.0\Aula53_Inicializar_Valores.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\bin\Debug\net6.0\Aula53_Inicializar_Valores.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\bin\Debug\net6.0\Aula53_Inicializar_Valores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\bin\Debug\net6.0\ref\Aula53_Inicializar_Valores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\bin\Debug\net6.0\Aula53_Inicializar_Valores.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\obj\Debug\net6.0\Aula53_Inicializar_Valores.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\obj\Debug\net6.0\Aula53_Inicializar_Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\obj\Debug\net6.0\Aula53_Inicializar_Valores.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\obj\Debug\net6.0\Aula53_Inicializar_Valores.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\obj\Debug\net6.0\Aula53_Inicializar_Valores.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\obj\Debug\net6.0\Aula53_Inicializar_Valores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\obj\Debug\net6.0\ref\Aula53_Inicializar_Valores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\obj\Debug\net6.0\Aula53_Inicializar_Valores.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula53_Inicializar_Valores\Aula53_Inicializar_Valores\obj\Debug\net6.0\Aula53_Inicializar_Valores.genruntimeconfig.cache

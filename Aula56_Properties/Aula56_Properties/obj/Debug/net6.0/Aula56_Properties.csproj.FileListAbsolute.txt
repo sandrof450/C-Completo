@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\obj\Debug\net6.0\Aula56_Properties.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\obj\Debug\net6.0\Aula56_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\obj\Debug\net6.0\Aula56_Properties.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\obj\Debug\net6.0\Aula56_Properties.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\obj\Debug\net6.0\Aula56_Properties.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\bin\Debug\net6.0\Aula56_Properties.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\bin\Debug\net6.0\Aula56_Properties.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\bin\Debug\net6.0\Aula56_Properties.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\bin\Debug\net6.0\Aula56_Properties.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\bin\Debug\net6.0\ref\Aula56_Properties.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\bin\Debug\net6.0\Aula56_Properties.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\obj\Debug\net6.0\Aula56_Properties.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\obj\Debug\net6.0\ref\Aula56_Properties.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\obj\Debug\net6.0\Aula56_Properties.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula56_Properties\Aula56_Properties\obj\Debug\net6.0\Aula56_Properties.genruntimeconfig.cache

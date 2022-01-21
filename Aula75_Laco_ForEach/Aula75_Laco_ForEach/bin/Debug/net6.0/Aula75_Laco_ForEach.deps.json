@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula75_Laco_ForEach/1.0.0": {
+        "runtime": {
+          "Aula75_Laco_ForEach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula75_Laco_ForEach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

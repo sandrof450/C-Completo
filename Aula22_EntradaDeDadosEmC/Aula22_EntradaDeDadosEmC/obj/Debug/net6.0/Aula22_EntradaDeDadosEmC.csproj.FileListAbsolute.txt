@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\bin\Debug\net6.0\Aula22_EntradaDeDadosEmC.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\bin\Debug\net6.0\Aula22_EntradaDeDadosEmC.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\bin\Debug\net6.0\Aula22_EntradaDeDadosEmC.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\bin\Debug\net6.0\Aula22_EntradaDeDadosEmC.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\bin\Debug\net6.0\ref\Aula22_EntradaDeDadosEmC.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\bin\Debug\net6.0\Aula22_EntradaDeDadosEmC.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\obj\Debug\net6.0\Aula22_EntradaDeDadosEmC.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\obj\Debug\net6.0\Aula22_EntradaDeDadosEmC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\obj\Debug\net6.0\Aula22_EntradaDeDadosEmC.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\obj\Debug\net6.0\Aula22_EntradaDeDadosEmC.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\obj\Debug\net6.0\Aula22_EntradaDeDadosEmC.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\obj\Debug\net6.0\Aula22_EntradaDeDadosEmC.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\obj\Debug\net6.0\ref\Aula22_EntradaDeDadosEmC.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\obj\Debug\net6.0\Aula22_EntradaDeDadosEmC.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula22_EntradaDeDadosEmC\Aula22_EntradaDeDadosEmC\obj\Debug\net6.0\Aula22_EntradaDeDadosEmC.genruntimeconfig.cache

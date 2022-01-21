@@ -1,0 +1,19 @@
+				<Aula para serem revistas>
+- Aula 17 Restrições e convenções para nomes
+
+- Aula 43 Object e ToString
+
+- Aula 56 Properties
+
+- Aula 57 AutoPropierts
+
+- Aula 66 Tipos referencia e tipos valor
+
+- Aula 72 e 73 Modificador de parametros ref e out
+
+- Aula 75 Foreach
+
+- Aula 76 e 77 listas(Fazer exercicios da aula 78 e aula 80)
+
+
+

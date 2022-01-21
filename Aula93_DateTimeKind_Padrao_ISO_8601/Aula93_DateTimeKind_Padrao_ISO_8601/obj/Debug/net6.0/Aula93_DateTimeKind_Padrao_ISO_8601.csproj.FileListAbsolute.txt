@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\bin\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\bin\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\bin\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\bin\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\bin\Debug\net6.0\ref\Aula93_DateTimeKind_Padrao_ISO_8601.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\bin\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\obj\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\obj\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\obj\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\obj\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\obj\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\obj\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\obj\Debug\net6.0\ref\Aula93_DateTimeKind_Padrao_ISO_8601.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\obj\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula93_DateTimeKind_Padrao_ISO_8601\Aula93_DateTimeKind_Padrao_ISO_8601\obj\Debug\net6.0\Aula93_DateTimeKind_Padrao_ISO_8601.genruntimeconfig.cache

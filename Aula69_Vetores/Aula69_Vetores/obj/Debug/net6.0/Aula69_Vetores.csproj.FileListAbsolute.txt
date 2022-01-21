@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\bin\Debug\net6.0\Aula69_Vetores.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\bin\Debug\net6.0\Aula69_Vetores.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\bin\Debug\net6.0\Aula69_Vetores.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\bin\Debug\net6.0\Aula69_Vetores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\bin\Debug\net6.0\ref\Aula69_Vetores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\bin\Debug\net6.0\Aula69_Vetores.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\obj\Debug\net6.0\Aula69_Vetores.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\obj\Debug\net6.0\Aula69_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\obj\Debug\net6.0\Aula69_Vetores.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\obj\Debug\net6.0\Aula69_Vetores.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\obj\Debug\net6.0\Aula69_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\obj\Debug\net6.0\Aula69_Vetores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\obj\Debug\net6.0\ref\Aula69_Vetores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\obj\Debug\net6.0\Aula69_Vetores.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula69_Vetores\Aula69_Vetores\obj\Debug\net6.0\Aula69_Vetores.genruntimeconfig.cache

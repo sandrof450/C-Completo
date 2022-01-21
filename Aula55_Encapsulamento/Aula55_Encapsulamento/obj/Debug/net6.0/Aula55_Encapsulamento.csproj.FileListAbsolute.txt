@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\bin\Debug\net6.0\Aula55_Encapsulamento.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\bin\Debug\net6.0\Aula55_Encapsulamento.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\bin\Debug\net6.0\Aula55_Encapsulamento.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\bin\Debug\net6.0\Aula55_Encapsulamento.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\bin\Debug\net6.0\ref\Aula55_Encapsulamento.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\bin\Debug\net6.0\Aula55_Encapsulamento.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\obj\Debug\net6.0\Aula55_Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\obj\Debug\net6.0\Aula55_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\obj\Debug\net6.0\Aula55_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\obj\Debug\net6.0\Aula55_Encapsulamento.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\obj\Debug\net6.0\Aula55_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\obj\Debug\net6.0\Aula55_Encapsulamento.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\obj\Debug\net6.0\ref\Aula55_Encapsulamento.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\obj\Debug\net6.0\Aula55_Encapsulamento.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula55_Encapsulamento\Aula55_Encapsulamento\obj\Debug\net6.0\Aula55_Encapsulamento.genruntimeconfig.cache

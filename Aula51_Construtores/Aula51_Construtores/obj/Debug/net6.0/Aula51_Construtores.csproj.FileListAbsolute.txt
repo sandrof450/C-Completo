@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\bin\Debug\net6.0\Aula51_Construtores.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\bin\Debug\net6.0\Aula51_Construtores.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\bin\Debug\net6.0\Aula51_Construtores.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\bin\Debug\net6.0\Aula51_Construtores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\bin\Debug\net6.0\ref\Aula51_Construtores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\bin\Debug\net6.0\Aula51_Construtores.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\obj\Debug\net6.0\Aula51_Construtores.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\obj\Debug\net6.0\Aula51_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\obj\Debug\net6.0\Aula51_Construtores.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\obj\Debug\net6.0\Aula51_Construtores.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\obj\Debug\net6.0\Aula51_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\obj\Debug\net6.0\Aula51_Construtores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\obj\Debug\net6.0\ref\Aula51_Construtores.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\obj\Debug\net6.0\Aula51_Construtores.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula51_Construtores\Aula51_Construtores\obj\Debug\net6.0\Aula51_Construtores.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula42_Metodo/1.0.0": {
+        "runtime": {
+          "Aula42_Metodo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula42_Metodo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

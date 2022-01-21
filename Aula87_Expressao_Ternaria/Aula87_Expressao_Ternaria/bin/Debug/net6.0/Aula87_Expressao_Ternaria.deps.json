@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula87_Expressao_Ternaria/1.0.0": {
+        "runtime": {
+          "Aula87_Expressao_Ternaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula87_Expressao_Ternaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

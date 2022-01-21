@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\bin\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\bin\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\bin\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\bin\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\bin\Debug\net6.0\ref\Aula72_Modificador_De_Parametros_Params.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\bin\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\obj\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\obj\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\obj\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\obj\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\obj\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\obj\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\obj\Debug\net6.0\ref\Aula72_Modificador_De_Parametros_Params.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\obj\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula72_Modificador_De_Parametros_Params\Aula72_Modificador_De_Parametros_Params\obj\Debug\net6.0\Aula72_Modificador_De_Parametros_Params.genruntimeconfig.cache

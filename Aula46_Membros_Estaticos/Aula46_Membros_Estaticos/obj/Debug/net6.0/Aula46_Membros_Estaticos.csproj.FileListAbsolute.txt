@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\obj\Debug\net6.0\Aula46_Membros_Estaticos.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\obj\Debug\net6.0\Aula46_Membros_Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\obj\Debug\net6.0\Aula46_Membros_Estaticos.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\obj\Debug\net6.0\Aula46_Membros_Estaticos.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\obj\Debug\net6.0\Aula46_Membros_Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\bin\Debug\net6.0\Aula46_Membros_Estaticos.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\bin\Debug\net6.0\Aula46_Membros_Estaticos.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\bin\Debug\net6.0\Aula46_Membros_Estaticos.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\bin\Debug\net6.0\Aula46_Membros_Estaticos.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\bin\Debug\net6.0\ref\Aula46_Membros_Estaticos.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\bin\Debug\net6.0\Aula46_Membros_Estaticos.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\obj\Debug\net6.0\Aula46_Membros_Estaticos.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\obj\Debug\net6.0\ref\Aula46_Membros_Estaticos.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\obj\Debug\net6.0\Aula46_Membros_Estaticos.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula46_Membros_Estaticos\Aula46_Membros_Estaticos\obj\Debug\net6.0\Aula46_Membros_Estaticos.genruntimeconfig.cache

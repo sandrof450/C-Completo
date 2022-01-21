@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\bin\Debug\net6.0\Aula76_Listas.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\bin\Debug\net6.0\Aula76_Listas.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\bin\Debug\net6.0\Aula76_Listas.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\bin\Debug\net6.0\Aula76_Listas.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\bin\Debug\net6.0\ref\Aula76_Listas.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\bin\Debug\net6.0\Aula76_Listas.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\obj\Debug\net6.0\Aula76_Listas.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\obj\Debug\net6.0\Aula76_Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\obj\Debug\net6.0\Aula76_Listas.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\obj\Debug\net6.0\Aula76_Listas.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\obj\Debug\net6.0\Aula76_Listas.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\obj\Debug\net6.0\Aula76_Listas.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\obj\Debug\net6.0\ref\Aula76_Listas.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\obj\Debug\net6.0\Aula76_Listas.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula76_Listas\Aula76_Listas\obj\Debug\net6.0\Aula76_Listas.genruntimeconfig.cache

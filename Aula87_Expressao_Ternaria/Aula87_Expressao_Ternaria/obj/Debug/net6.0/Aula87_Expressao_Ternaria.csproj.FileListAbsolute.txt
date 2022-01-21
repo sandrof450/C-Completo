@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\bin\Debug\net6.0\Aula87_Expressao_Ternaria.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\bin\Debug\net6.0\Aula87_Expressao_Ternaria.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\bin\Debug\net6.0\Aula87_Expressao_Ternaria.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\bin\Debug\net6.0\Aula87_Expressao_Ternaria.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\bin\Debug\net6.0\ref\Aula87_Expressao_Ternaria.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\bin\Debug\net6.0\Aula87_Expressao_Ternaria.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\obj\Debug\net6.0\Aula87_Expressao_Ternaria.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\obj\Debug\net6.0\Aula87_Expressao_Ternaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\obj\Debug\net6.0\Aula87_Expressao_Ternaria.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\obj\Debug\net6.0\Aula87_Expressao_Ternaria.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\obj\Debug\net6.0\Aula87_Expressao_Ternaria.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\obj\Debug\net6.0\Aula87_Expressao_Ternaria.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\obj\Debug\net6.0\ref\Aula87_Expressao_Ternaria.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\obj\Debug\net6.0\Aula87_Expressao_Ternaria.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula87_Expressao_Ternaria\Aula87_Expressao_Ternaria\obj\Debug\net6.0\Aula87_Expressao_Ternaria.genruntimeconfig.cache

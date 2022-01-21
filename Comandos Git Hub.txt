@@ -1,0 +1,36 @@
+git config --global user.name "seu nome"
+git config --global user.email "seu email"
+------------------------------------------------------------------------------------------
+git init//Acessa os arquivos que está sendo apontado no momento
+
+git status// Mosta o status das versões 
+	->em vermelho mostra os arquivos que não tem rastreabilidade de suas verções
+	->Em verde os arquivos prontos para serem comitados
+
+git add.//Coloca os arquvivos modificados na área de "stage" 
+	->STAGE=Pronto para serem comitados
+
+git commit -m "Descrição do commit"//Comita os arquivos prontos para serem comitados, ou seja, arquivos que foram inseridos pelo git add.
+
+git log // Mostra o log do autor dos comites e a data que foi feito.
+git log --oneline//Mostra o log de forma resumida
+
+
+git reset --soft HEAD~1//Remover o ultmio commit mantendo as alterações nos arquivos
+git reset --hard HEAD~1//Remover o ultimo commit ICNCLUSIVE as alterações nos arquivos(PERIGO!)
+
+git checkout <código do commit>//Navegar entre commits, alterando os arquivos temporariamente
+git checkout <nome do branch>//Voltar para o ultimo commit
+
+git remote add origin <URI do repositorio remoto>//Associar repositorio local ao repositorio remoto, dando o apelido de "origin" a ele
+git remote set-url origin <URI do repositorio remoto>//Associar o repositório local a um outro repositório remoto, porém mantendo o mesmo apelido
+
+git push -u origin master//Se for usado a opção -u, nas próximas vezes que for subir o branch master, basta fazer git push
+
+
+git clone <URI do repositorio remoto>//Copiar o repositorio, inclusive o historico de commits
+
+
+
+
+

@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\bin\Debug\net6.0\Aula34_For.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\bin\Debug\net6.0\Aula34_For.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\bin\Debug\net6.0\Aula34_For.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\bin\Debug\net6.0\Aula34_For.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\bin\Debug\net6.0\ref\Aula34_For.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\bin\Debug\net6.0\Aula34_For.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\obj\Debug\net6.0\Aula34_For.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\obj\Debug\net6.0\Aula34_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\obj\Debug\net6.0\Aula34_For.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\obj\Debug\net6.0\Aula34_For.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\obj\Debug\net6.0\Aula34_For.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\obj\Debug\net6.0\Aula34_For.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\obj\Debug\net6.0\ref\Aula34_For.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\obj\Debug\net6.0\Aula34_For.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula34_For\Aula34_For\obj\Debug\net6.0\Aula34_For.genruntimeconfig.cache

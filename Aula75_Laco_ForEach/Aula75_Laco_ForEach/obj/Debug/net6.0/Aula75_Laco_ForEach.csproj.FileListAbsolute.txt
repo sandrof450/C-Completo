@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\bin\Debug\net6.0\Aula75_Laco_ForEach.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\bin\Debug\net6.0\Aula75_Laco_ForEach.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\bin\Debug\net6.0\Aula75_Laco_ForEach.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\bin\Debug\net6.0\Aula75_Laco_ForEach.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\bin\Debug\net6.0\ref\Aula75_Laco_ForEach.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\bin\Debug\net6.0\Aula75_Laco_ForEach.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\obj\Debug\net6.0\Aula75_Laco_ForEach.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\obj\Debug\net6.0\Aula75_Laco_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\obj\Debug\net6.0\Aula75_Laco_ForEach.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\obj\Debug\net6.0\Aula75_Laco_ForEach.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\obj\Debug\net6.0\Aula75_Laco_ForEach.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\obj\Debug\net6.0\Aula75_Laco_ForEach.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\obj\Debug\net6.0\ref\Aula75_Laco_ForEach.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\obj\Debug\net6.0\Aula75_Laco_ForEach.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula75_Laco_ForEach\Aula75_Laco_ForEach\obj\Debug\net6.0\Aula75_Laco_ForEach.genruntimeconfig.cache

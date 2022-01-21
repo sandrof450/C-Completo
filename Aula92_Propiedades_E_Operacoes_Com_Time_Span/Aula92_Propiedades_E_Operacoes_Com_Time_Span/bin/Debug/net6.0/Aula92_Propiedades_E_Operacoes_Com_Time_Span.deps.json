@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula92_Propiedades_E_Operacoes_Com_Time_Span/1.0.0": {
+        "runtime": {
+          "Aula92_Propiedades_E_Operacoes_Com_Time_Span.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula92_Propiedades_E_Operacoes_Com_Time_Span/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

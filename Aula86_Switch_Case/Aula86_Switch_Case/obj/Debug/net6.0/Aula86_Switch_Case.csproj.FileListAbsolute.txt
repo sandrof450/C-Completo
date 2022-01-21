@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\bin\Debug\net6.0\Aula86_Switch_Case.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\bin\Debug\net6.0\Aula86_Switch_Case.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\bin\Debug\net6.0\Aula86_Switch_Case.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\bin\Debug\net6.0\Aula86_Switch_Case.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\bin\Debug\net6.0\ref\Aula86_Switch_Case.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\bin\Debug\net6.0\Aula86_Switch_Case.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\obj\Debug\net6.0\Aula86_Switch_Case.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\obj\Debug\net6.0\Aula86_Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\obj\Debug\net6.0\Aula86_Switch_Case.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\obj\Debug\net6.0\Aula86_Switch_Case.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\obj\Debug\net6.0\Aula86_Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\obj\Debug\net6.0\Aula86_Switch_Case.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\obj\Debug\net6.0\ref\Aula86_Switch_Case.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\obj\Debug\net6.0\Aula86_Switch_Case.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula86_Switch_Case\Aula86_Switch_Case\obj\Debug\net6.0\Aula86_Switch_Case.genruntimeconfig.cache

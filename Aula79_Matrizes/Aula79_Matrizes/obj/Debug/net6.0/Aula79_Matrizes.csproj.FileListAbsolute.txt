@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\obj\Debug\net6.0\Aula79_Matrizes.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\obj\Debug\net6.0\Aula79_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\obj\Debug\net6.0\Aula79_Matrizes.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\obj\Debug\net6.0\Aula79_Matrizes.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\obj\Debug\net6.0\Aula79_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\bin\Debug\net6.0\Aula79_Matrizes.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\bin\Debug\net6.0\Aula79_Matrizes.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\bin\Debug\net6.0\Aula79_Matrizes.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\bin\Debug\net6.0\Aula79_Matrizes.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\bin\Debug\net6.0\ref\Aula79_Matrizes.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\bin\Debug\net6.0\Aula79_Matrizes.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\obj\Debug\net6.0\Aula79_Matrizes.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\obj\Debug\net6.0\ref\Aula79_Matrizes.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\obj\Debug\net6.0\Aula79_Matrizes.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula79_Matrizes\Aula79_Matrizes\obj\Debug\net6.0\Aula79_Matrizes.genruntimeconfig.cache

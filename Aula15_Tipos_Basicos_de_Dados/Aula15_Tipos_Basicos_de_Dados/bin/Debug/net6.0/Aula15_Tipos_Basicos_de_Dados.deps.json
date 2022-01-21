@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula15_Tipos_Basicos_de_Dados/1.0.0": {
+        "runtime": {
+          "Aula15_Tipos_Basicos_de_Dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula15_Tipos_Basicos_de_Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

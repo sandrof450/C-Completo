@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\bin\Debug\net6.0\Aula115_Enumeracoes.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\bin\Debug\net6.0\Aula115_Enumeracoes.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\bin\Debug\net6.0\Aula115_Enumeracoes.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\bin\Debug\net6.0\Aula115_Enumeracoes.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\bin\Debug\net6.0\ref\Aula115_Enumeracoes.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\bin\Debug\net6.0\Aula115_Enumeracoes.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\obj\Debug\net6.0\Aula115_Enumeracoes.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\obj\Debug\net6.0\Aula115_Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\obj\Debug\net6.0\Aula115_Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\obj\Debug\net6.0\Aula115_Enumeracoes.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\obj\Debug\net6.0\Aula115_Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\obj\Debug\net6.0\Aula115_Enumeracoes.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\obj\Debug\net6.0\ref\Aula115_Enumeracoes.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\obj\Debug\net6.0\Aula115_Enumeracoes.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula115_Enumeracoes\Aula115_Enumeracoes\obj\Debug\net6.0\Aula115_Enumeracoes.genruntimeconfig.cache

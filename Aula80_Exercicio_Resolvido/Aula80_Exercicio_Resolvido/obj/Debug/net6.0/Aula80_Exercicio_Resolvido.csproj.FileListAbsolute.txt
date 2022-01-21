@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\bin\Debug\net6.0\Aula80_Exercicio_Resolvido.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\bin\Debug\net6.0\Aula80_Exercicio_Resolvido.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\bin\Debug\net6.0\Aula80_Exercicio_Resolvido.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\bin\Debug\net6.0\Aula80_Exercicio_Resolvido.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\bin\Debug\net6.0\ref\Aula80_Exercicio_Resolvido.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\bin\Debug\net6.0\Aula80_Exercicio_Resolvido.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\obj\Debug\net6.0\Aula80_Exercicio_Resolvido.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\obj\Debug\net6.0\Aula80_Exercicio_Resolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\obj\Debug\net6.0\Aula80_Exercicio_Resolvido.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\obj\Debug\net6.0\Aula80_Exercicio_Resolvido.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\obj\Debug\net6.0\Aula80_Exercicio_Resolvido.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\obj\Debug\net6.0\Aula80_Exercicio_Resolvido.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\obj\Debug\net6.0\ref\Aula80_Exercicio_Resolvido.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\obj\Debug\net6.0\Aula80_Exercicio_Resolvido.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula80_Exercicio_Resolvido\Aula80_Exercicio_Resolvido\obj\Debug\net6.0\Aula80_Exercicio_Resolvido.genruntimeconfig.cache

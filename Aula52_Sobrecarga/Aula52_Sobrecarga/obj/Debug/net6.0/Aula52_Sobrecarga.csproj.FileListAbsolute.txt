@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\bin\Debug\net6.0\Aula52_Sobrecarga.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\bin\Debug\net6.0\Aula52_Sobrecarga.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\bin\Debug\net6.0\Aula52_Sobrecarga.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\bin\Debug\net6.0\Aula52_Sobrecarga.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\bin\Debug\net6.0\ref\Aula52_Sobrecarga.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\bin\Debug\net6.0\Aula52_Sobrecarga.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\obj\Debug\net6.0\Aula52_Sobrecarga.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\obj\Debug\net6.0\Aula52_Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\obj\Debug\net6.0\Aula52_Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\obj\Debug\net6.0\Aula52_Sobrecarga.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\obj\Debug\net6.0\Aula52_Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\obj\Debug\net6.0\Aula52_Sobrecarga.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\obj\Debug\net6.0\ref\Aula52_Sobrecarga.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\obj\Debug\net6.0\Aula52_Sobrecarga.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula52_Sobrecarga\Aula52_Sobrecarga\obj\Debug\net6.0\Aula52_Sobrecarga.genruntimeconfig.cache

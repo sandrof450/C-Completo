@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\bin\Debug\net6.0\Aula42_Metodo.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\bin\Debug\net6.0\Aula42_Metodo.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\bin\Debug\net6.0\Aula42_Metodo.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\bin\Debug\net6.0\Aula42_Metodo.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\bin\Debug\net6.0\ref\Aula42_Metodo.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\bin\Debug\net6.0\Aula42_Metodo.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\obj\Debug\net6.0\Aula42_Metodo.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\obj\Debug\net6.0\Aula42_Metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\obj\Debug\net6.0\Aula42_Metodo.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\obj\Debug\net6.0\Aula42_Metodo.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\obj\Debug\net6.0\Aula42_Metodo.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\obj\Debug\net6.0\Aula42_Metodo.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\obj\Debug\net6.0\ref\Aula42_Metodo.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\obj\Debug\net6.0\Aula42_Metodo.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula42_Metodo\Aula42_Metodo\obj\Debug\net6.0\Aula42_Metodo.genruntimeconfig.cache

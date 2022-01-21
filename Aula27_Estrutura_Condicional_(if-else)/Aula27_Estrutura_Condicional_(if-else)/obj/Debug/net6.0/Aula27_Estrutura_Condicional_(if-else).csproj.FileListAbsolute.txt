@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\bin\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\bin\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\bin\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\bin\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\bin\Debug\net6.0\ref\Aula27_Estrutura_Condicional_(if-else).dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\bin\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\obj\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\obj\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\obj\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\obj\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\obj\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\obj\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\obj\Debug\net6.0\ref\Aula27_Estrutura_Condicional_(if-else).dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\obj\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula27_Estrutura_Condicional_(if-else)\Aula27_Estrutura_Condicional_(if-else)\obj\Debug\net6.0\Aula27_Estrutura_Condicional_(if-else).genruntimeconfig.cache

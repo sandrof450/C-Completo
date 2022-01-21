@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\obj\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\obj\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\obj\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\obj\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\obj\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\bin\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\bin\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\bin\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\bin\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\bin\Debug\net6.0\ref\Aula15_Tipos_Basicos_de_Dados.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\bin\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\obj\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\obj\Debug\net6.0\ref\Aula15_Tipos_Basicos_de_Dados.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\obj\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula15_Tipos_Basicos_de_Dados\Aula15_Tipos_Basicos_de_Dados\obj\Debug\net6.0\Aula15_Tipos_Basicos_de_Dados.genruntimeconfig.cache

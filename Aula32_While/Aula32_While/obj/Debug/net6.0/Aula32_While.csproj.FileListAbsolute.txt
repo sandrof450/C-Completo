@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\bin\Debug\net6.0\Aula32_While.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\bin\Debug\net6.0\Aula32_While.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\bin\Debug\net6.0\Aula32_While.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\bin\Debug\net6.0\Aula32_While.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\bin\Debug\net6.0\ref\Aula32_While.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\bin\Debug\net6.0\Aula32_While.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\obj\Debug\net6.0\Aula32_While.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\obj\Debug\net6.0\Aula32_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\obj\Debug\net6.0\Aula32_While.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\obj\Debug\net6.0\Aula32_While.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\obj\Debug\net6.0\Aula32_While.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\obj\Debug\net6.0\Aula32_While.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\obj\Debug\net6.0\ref\Aula32_While.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\obj\Debug\net6.0\Aula32_While.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula32_While\Aula32_While\obj\Debug\net6.0\Aula32_While.genruntimeconfig.cache

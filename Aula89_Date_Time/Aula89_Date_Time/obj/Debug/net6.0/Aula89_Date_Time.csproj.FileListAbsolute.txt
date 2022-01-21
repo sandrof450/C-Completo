@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\bin\Debug\net6.0\Aula89_Date_Time.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\bin\Debug\net6.0\Aula89_Date_Time.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\bin\Debug\net6.0\Aula89_Date_Time.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\bin\Debug\net6.0\Aula89_Date_Time.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\bin\Debug\net6.0\ref\Aula89_Date_Time.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\bin\Debug\net6.0\Aula89_Date_Time.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\obj\Debug\net6.0\Aula89_Date_Time.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\obj\Debug\net6.0\Aula89_Date_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\obj\Debug\net6.0\Aula89_Date_Time.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\obj\Debug\net6.0\Aula89_Date_Time.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\obj\Debug\net6.0\Aula89_Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\obj\Debug\net6.0\Aula89_Date_Time.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\obj\Debug\net6.0\ref\Aula89_Date_Time.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\obj\Debug\net6.0\Aula89_Date_Time.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula89_Date_Time\Aula89_Date_Time\obj\Debug\net6.0\Aula89_Date_Time.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\bin\Debug\net6.0\Aula90_TimeSpan.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\bin\Debug\net6.0\Aula90_TimeSpan.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\bin\Debug\net6.0\Aula90_TimeSpan.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\bin\Debug\net6.0\Aula90_TimeSpan.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\bin\Debug\net6.0\ref\Aula90_TimeSpan.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\bin\Debug\net6.0\Aula90_TimeSpan.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\obj\Debug\net6.0\Aula90_TimeSpan.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\obj\Debug\net6.0\Aula90_TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\obj\Debug\net6.0\Aula90_TimeSpan.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\obj\Debug\net6.0\Aula90_TimeSpan.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\obj\Debug\net6.0\Aula90_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\obj\Debug\net6.0\Aula90_TimeSpan.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\obj\Debug\net6.0\ref\Aula90_TimeSpan.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\obj\Debug\net6.0\Aula90_TimeSpan.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula90_TimeSpan\Aula90_TimeSpan\obj\Debug\net6.0\Aula90_TimeSpan.genruntimeconfig.cache
