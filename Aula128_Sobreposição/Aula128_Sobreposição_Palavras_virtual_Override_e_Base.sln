@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula128_Sobreposição_Palavras_virtual_Override_e_Base", "Aula128_Sobreposição_Palavras_virtual_Override_e_Base\Aula128_Sobreposição_Palavras_virtual_Override_e_Base.csproj", "{49468D06-9A6A-4154-9B6E-CF29DA33D438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49468D06-9A6A-4154-9B6E-CF29DA33D438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49468D06-9A6A-4154-9B6E-CF29DA33D438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49468D06-9A6A-4154-9B6E-CF29DA33D438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49468D06-9A6A-4154-9B6E-CF29DA33D438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {942A3C28-C4F5-48C3-91EA-688311BA47D8}
+	EndGlobalSection
+EndGlobal

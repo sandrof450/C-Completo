@@ -55,9 +55,7 @@ namespace Exercicio1
 
             Console.WriteLine("Name: " + worker.Name);
             Console.WriteLine("Departament: " + worker.Departament.Name);
-            Console.WriteLine("Income for: " + monthAndYear + ": " + worker.Income(year, month));
-
-
+            Console.WriteLine("Income for: " + monthAndYear + ": " + worker.Income(year, month).ToString("F2",CultureInfo.InvariantCulture));
         }
     }
 }

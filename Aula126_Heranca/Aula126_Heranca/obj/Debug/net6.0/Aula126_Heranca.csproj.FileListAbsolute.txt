@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\bin\Debug\net6.0\Aula126_Heranca.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\bin\Debug\net6.0\Aula126_Heranca.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\bin\Debug\net6.0\Aula126_Heranca.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\bin\Debug\net6.0\Aula126_Heranca.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\bin\Debug\net6.0\ref\Aula126_Heranca.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\bin\Debug\net6.0\Aula126_Heranca.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\obj\Debug\net6.0\Aula126_Heranca.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\obj\Debug\net6.0\Aula126_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\obj\Debug\net6.0\Aula126_Heranca.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\obj\Debug\net6.0\Aula126_Heranca.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\obj\Debug\net6.0\Aula126_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\obj\Debug\net6.0\Aula126_Heranca.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\obj\Debug\net6.0\ref\Aula126_Heranca.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\obj\Debug\net6.0\Aula126_Heranca.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula126_Heranca\Aula126_Heranca\obj\Debug\net6.0\Aula126_Heranca.genruntimeconfig.cache

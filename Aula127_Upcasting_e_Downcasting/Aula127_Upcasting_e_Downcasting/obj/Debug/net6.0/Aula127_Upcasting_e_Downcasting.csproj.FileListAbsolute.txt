@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\bin\Debug\net6.0\Aula127_Upcasting_e_Downcasting.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\bin\Debug\net6.0\Aula127_Upcasting_e_Downcasting.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\bin\Debug\net6.0\Aula127_Upcasting_e_Downcasting.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\bin\Debug\net6.0\Aula127_Upcasting_e_Downcasting.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\bin\Debug\net6.0\ref\Aula127_Upcasting_e_Downcasting.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\bin\Debug\net6.0\Aula127_Upcasting_e_Downcasting.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\obj\Debug\net6.0\Aula127_Upcasting_e_Downcasting.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\obj\Debug\net6.0\Aula127_Upcasting_e_Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\obj\Debug\net6.0\Aula127_Upcasting_e_Downcasting.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\obj\Debug\net6.0\Aula127_Upcasting_e_Downcasting.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\obj\Debug\net6.0\Aula127_Upcasting_e_Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\obj\Debug\net6.0\Aula127_Upcasting_e_Downcasting.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\obj\Debug\net6.0\ref\Aula127_Upcasting_e_Downcasting.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\obj\Debug\net6.0\Aula127_Upcasting_e_Downcasting.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\C# - Udemy\Aula127_Upcasting_e_Downcasting\Aula127_Upcasting_e_Downcasting\obj\Debug\net6.0\Aula127_Upcasting_e_Downcasting.genruntimeconfig.cache
